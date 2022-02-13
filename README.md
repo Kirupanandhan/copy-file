@@ -19,6 +19,8 @@ Copy file.txt using copy() funtion.
 Run the program.
 ## PROGRAM:
 ![output](./2ndpi.jpeg)
+![2ndpi](https://user-images.githubusercontent.com/94386222/153752415-5762f459-e1f2-46db-b56c-428efbf5350d.jpeg)
+
 ### OUTPUT:
 ![output](./1stpi.jpeg)
 
